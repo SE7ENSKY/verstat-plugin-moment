@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-moment",
+  "version": "1.0.0",
+  "dependencies": {
+    "moment": "~2.5.1"
+  }
+}
